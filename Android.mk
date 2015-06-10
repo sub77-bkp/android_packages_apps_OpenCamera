@@ -1,0 +1,11 @@
+LOCAL_PATH:= $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_PACKAGE_NAME := OpenCamera
+LOCAL_MODULE_TAGS := optional
+LOCAL_PRIVILEGED_MODULE := true
+
+
+LOCAL_SDK_VERSION := 21
+
+
